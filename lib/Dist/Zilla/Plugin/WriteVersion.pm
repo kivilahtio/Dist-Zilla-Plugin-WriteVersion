@@ -7,7 +7,7 @@ package Dist::Zilla::Plugin::WriteVersion;
 
 =head1 NAME
 
-Dist::Zilla::Plugin::WriteVersion
+Dist::Zilla::Plugin::WriteVersion - Overwrites version numbers in .pm-files
 
 =head1 DESCRIPTION
 
